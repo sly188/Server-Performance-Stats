@@ -1,3 +1,3 @@
 # Server-Performance-Stats
-Script to analyse basic server performance stats.
-Done using Go
+Script to analyze basic server performance stats.
+Written using Go
